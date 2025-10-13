@@ -5,7 +5,7 @@ Atualmente estudo **Python**, **Java**, **COBOL**, e **Banco de Dados (SQL)**, a
 
 ---
 
-## 🧠 Tecnologias principais
+## 🛠️ Tecnologias principais
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -28,7 +28,13 @@ Atualmente estudo **Python**, **Java**, **COBOL**, e **Banco de Dados (SQL)**, a
 ## 🚀 O que estou fazendo agora
 - Criando projetos em **Python** voltados para **Data Science e automação**.  
 - Estudando **Java** e **COBOL** para fortalecer minha base de lógica e backend.  
-- Explorando **SQL** e **Power BI** para análise e visualização de dados.  
+- Explorando **SQL** e **Power BI** para análise e visualização de dados.
+- 
+---
+
+- ## 📫 Como me encontrar
+- LinkedIn: https://www.linkedin.com/in/fernando-gonçalves-felipe-dos-santos-153363332  
+- Email: fernandogonfs@hotmail.com
 
 ---
 
