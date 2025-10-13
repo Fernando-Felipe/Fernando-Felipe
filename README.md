@@ -21,7 +21,7 @@ Atualmente estudo **Python**, **Java**, **COBOL**, e **Banco de Dados (SQL)**, a
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fernando-Felipe&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Felipe&layout=compact&langs_count=6&theme=tokyonight&count_private=truet" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Felipe&layout=compact&langs_count=6&theme=tokyonight" />
 </p>
 
 ---
