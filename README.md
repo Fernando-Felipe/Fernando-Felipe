@@ -17,21 +17,8 @@ Atualmente estudo **Python**, **Java**, **COBOL**, e **Banco de Dados (SQL)**, a
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-## 📊 Estatísticas do GitHub
-
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fernando-Felipe&show_icons=true&theme=tokyonight&count_private=true" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Felipe&layout=compact&langs_count=6&theme=tokyonight" />
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Felipe&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 ---
