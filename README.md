@@ -15,11 +15,8 @@ Atualmente estudo **Python**, **Java**, **COBOL**, e **Banco de Dados (SQL)**, a
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
----
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Felipe&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
+
 
 ---
 
